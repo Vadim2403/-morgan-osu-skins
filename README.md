@@ -1,6 +1,6 @@
 # -morgan's osu skins
 - Here I collected all skins i use, or used to use ( Mostly I did it for myself )<br>
-- All images was taken from [cyberdark's osu skin site](https://skins.osuck.net/tags/cyperdark)
+- All images were taken from [cyberdark's osu skin site](https://skins.osuck.net/tags/cyperdark)
 
 
 
